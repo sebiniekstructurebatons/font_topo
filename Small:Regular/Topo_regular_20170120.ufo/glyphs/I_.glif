@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="1">
+  <advance width="334"/>
+  <unicode hex="0049"/>
+  <outline>
+    <contour>
+      <point x="308" y="0"/>
+      <point x="308" y="82"/>
+      <point x="308" y="82" type="curve"/>
+      <point x="167" y="78" type="line"/>
+      <point x="26" y="82" type="line"/>
+      <point x="26" y="82"/>
+      <point x="26" y="0"/>
+      <point x="26" y="0" type="curve"/>
+      <point x="308" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="628"/>
+      <point x="308" y="710"/>
+      <point x="308" y="710" type="curve"/>
+      <point x="26" y="710" type="line"/>
+      <point x="26" y="710"/>
+      <point x="26" y="628"/>
+      <point x="26" y="628" type="curve"/>
+      <point x="167" y="632" type="line"/>
+      <point x="308" y="628" type="line"/>
+    </contour>
+    <contour>
+      <point x="219" y="0"/>
+      <point x="219" y="710"/>
+      <point x="219" y="710" type="curve"/>
+      <point x="115" y="710" type="line"/>
+      <point x="115" y="710"/>
+      <point x="115" y="0"/>
+      <point x="115" y="0" type="curve"/>
+      <point x="219" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>20140616_v2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>I</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>334</integer>
+        </dict>
+        <key>20140925</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>I</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>334</integer>
+        </dict>
+        <key>20160215</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>I</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>334</integer>
+        </dict>
+        <key>20160225</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>I</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>334</integer>
+        </dict>
+        <key>Grd_1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>I</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>334</integer>
+        </dict>
+        <key>Grnd_2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>I</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>334</integer>
+        </dict>
+        <key>Grnd_3</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>I</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>334</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>I</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>334</integer>
+        </dict>
+        <key>legende-texte</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>I</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>334</integer>
+        </dict>
+        <key>otherground</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>I</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>334</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

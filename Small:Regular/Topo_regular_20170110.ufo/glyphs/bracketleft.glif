@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="1">
+  <advance width="337"/>
+  <unicode hex="005B"/>
+  <outline>
+    <contour>
+      <point x="184" y="-136"/>
+      <point x="184" y="700"/>
+      <point x="184" y="700" type="curve"/>
+      <point x="80" y="700" type="line"/>
+      <point x="80" y="700"/>
+      <point x="80" y="-136"/>
+      <point x="80" y="-136" type="curve"/>
+      <point x="184" y="-136" type="line"/>
+    </contour>
+    <contour>
+      <point x="273" y="618"/>
+      <point x="273" y="700"/>
+      <point x="273" y="700" type="curve"/>
+      <point x="132" y="700" type="line"/>
+      <point x="132" y="700"/>
+      <point x="132" y="622"/>
+      <point x="132" y="622" type="curve"/>
+      <point x="273" y="618" type="line"/>
+    </contour>
+    <contour>
+      <point x="273" y="-136"/>
+      <point x="273" y="-54"/>
+      <point x="273" y="-54" type="curve"/>
+      <point x="132" y="-58" type="line"/>
+      <point x="132" y="-58"/>
+      <point x="132" y="-136"/>
+      <point x="132" y="-136" type="curve"/>
+      <point x="273" y="-136" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>20140616_v2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bracketleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>337</integer>
+        </dict>
+        <key>20140925</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bracketleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>337</integer>
+        </dict>
+        <key>20160215</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bracketleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>337</integer>
+        </dict>
+        <key>20160225</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bracketleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>337</integer>
+        </dict>
+        <key>Grd_1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bracketleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>337</integer>
+        </dict>
+        <key>Grnd_2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bracketleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>337</integer>
+        </dict>
+        <key>Grnd_3</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bracketleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>337</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bracketleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>337</integer>
+        </dict>
+        <key>otherground</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bracketleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>337</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

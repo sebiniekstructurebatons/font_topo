@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="439"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="175" y="426" type="line"/>
+      <point x="264" y="426" type="line"/>
+      <point x="264" y="527" type="line"/>
+      <point x="264" y="527"/>
+      <point x="175" y="527"/>
+      <point x="175" y="527" type="curve"/>
+    </contour>
+    <contour>
+      <point x="175" y="112" type="line"/>
+      <point x="264" y="112" type="line"/>
+      <point x="264" y="213" type="line"/>
+      <point x="264" y="213"/>
+      <point x="175" y="213"/>
+      <point x="175" y="213" type="curve"/>
+    </contour>
+    <contour>
+      <point x="409" y="362" type="line"/>
+      <point x="30" y="362" type="line"/>
+      <point x="30" y="277" type="line"/>
+      <point x="409" y="277" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Grd_1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>divide</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>439</integer>
+        </dict>
+        <key>Grd_2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>divide</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>439</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>divide</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>439</integer>
+        </dict>
+        <key>otherground</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>divide</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>439</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

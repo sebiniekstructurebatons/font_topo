@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="513"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="432" y="308"/>
+      <point x="432" y="398"/>
+      <point x="432" y="398" type="curve"/>
+      <point x="175" y="398" type="line"/>
+      <point x="175" y="398"/>
+      <point x="175" y="308"/>
+      <point x="175" y="308" type="curve"/>
+      <point x="432" y="308" type="line"/>
+    </contour>
+    <contour>
+      <point x="469" y="0"/>
+      <point x="469" y="92"/>
+      <point x="469" y="92" type="curve"/>
+      <point x="175" y="92" type="line"/>
+      <point x="175" y="92"/>
+      <point x="175" y="0"/>
+      <point x="175" y="0" type="curve"/>
+      <point x="469" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="457" y="614"/>
+      <point x="457" y="706"/>
+      <point x="457" y="706" type="curve"/>
+      <point x="175" y="706" type="line"/>
+      <point x="175" y="706"/>
+      <point x="175" y="614"/>
+      <point x="175" y="614" type="curve"/>
+      <point x="457" y="614" type="line"/>
+    </contour>
+    <contour>
+      <point x="183" y="0"/>
+      <point x="183" y="706"/>
+      <point x="183" y="706" type="curve"/>
+      <point x="80" y="706" type="line"/>
+      <point x="80" y="706"/>
+      <point x="80" y="0"/>
+      <point x="80" y="0" type="curve"/>
+      <point x="183" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Grd_1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>E</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>513</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>E</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>513</integer>
+        </dict>
+        <key>otherground</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>E</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>513</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

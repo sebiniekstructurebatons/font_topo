@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="607"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="501" y="308"/>
+      <point x="501" y="401"/>
+      <point x="501" y="401" type="curve"/>
+      <point x="196" y="401" type="line"/>
+      <point x="196" y="401"/>
+      <point x="196" y="308"/>
+      <point x="196" y="308" type="curve"/>
+      <point x="501" y="308" type="line"/>
+    </contour>
+    <contour>
+      <point x="547" y="0"/>
+      <point x="547" y="90"/>
+      <point x="547" y="90" type="curve"/>
+      <point x="196" y="90" type="line"/>
+      <point x="196" y="90"/>
+      <point x="196" y="0"/>
+      <point x="196" y="0" type="curve"/>
+      <point x="547" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="535" y="632"/>
+      <point x="535" y="728"/>
+      <point x="535" y="728" type="curve"/>
+      <point x="196" y="728" type="line"/>
+      <point x="196" y="728"/>
+      <point x="196" y="632"/>
+      <point x="196" y="632" type="curve"/>
+      <point x="535" y="632" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="0"/>
+      <point x="204" y="728"/>
+      <point x="204" y="728" type="curve"/>
+      <point x="103" y="728" type="line"/>
+      <point x="103" y="728"/>
+      <point x="103" y="0"/>
+      <point x="103" y="0" type="curve"/>
+      <point x="204" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Grd_1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>E</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>607</integer>
+        </dict>
+        <key>Grnd_2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>E</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>607</integer>
+        </dict>
+        <key>Grnd_3</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>E</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>607</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>E</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>607</integer>
+        </dict>
+        <key>otherground</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>E</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>607</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

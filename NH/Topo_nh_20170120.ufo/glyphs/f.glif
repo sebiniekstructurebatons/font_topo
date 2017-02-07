@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f" format="1">
+  <advance width="354"/>
+  <unicode hex="0066"/>
+  <outline>
+    <contour>
+      <point x="228" y="10" type="line"/>
+      <point x="225" y="43"/>
+      <point x="214" y="100"/>
+      <point x="214" y="146" type="curve"/>
+      <point x="214" y="489" type="line" smooth="yes"/>
+      <point x="113" y="489" type="line"/>
+      <point x="113" y="146" type="line" smooth="yes"/>
+      <point x="113" y="100"/>
+      <point x="102" y="43"/>
+      <point x="99" y="10" type="curve"/>
+      <point x="99" y="0" type="line"/>
+      <point x="228" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="338" y="418" type="line"/>
+      <point x="338" y="492" type="line"/>
+      <point x="30" y="492" type="line"/>
+      <point x="30" y="418" type="line"/>
+    </contour>
+    <contour>
+      <point x="382" y="702" type="line"/>
+      <point x="350" y="713"/>
+      <point x="338" y="716"/>
+      <point x="275" y="716" type="curve" smooth="yes"/>
+      <point x="185" y="716"/>
+      <point x="113" y="646"/>
+      <point x="113" y="523" type="curve" smooth="yes"/>
+      <point x="113.0" y="475.0" type="line"/>
+      <point x="214.0" y="475.0" type="line"/>
+      <point x="214" y="509" type="line" smooth="yes"/>
+      <point x="214" y="586"/>
+      <point x="226" y="629"/>
+      <point x="282" y="629" type="curve" smooth="yes"/>
+      <point x="329" y="629"/>
+      <point x="355" y="621"/>
+      <point x="382" y="606" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Grd_1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>f</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>354</integer>
+        </dict>
+        <key>Grd_2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>f</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>354</integer>
+        </dict>
+        <key>Grd_3</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>f</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>354</integer>
+        </dict>
+        <key>Grnd_4</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>f</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>354</integer>
+        </dict>
+        <key>Grnd_5</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>f</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>354</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>111</integer>
+                  <key>y</key>
+                  <integer>409</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>111</integer>
+                  <key>y</key>
+                  <integer>233</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>111</integer>
+                  <key>y</key>
+                  <integer>167</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>106</integer>
+                  <key>y</key>
+                  <integer>51</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>101</integer>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>246</integer>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>221</integer>
+                  <key>y</key>
+                  <integer>76</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>216</integer>
+                  <key>y</key>
+                  <integer>124</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>216</integer>
+                  <key>y</key>
+                  <integer>221</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>216</integer>
+                  <key>y</key>
+                  <integer>409</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>f</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>354</integer>
+        </dict>
+        <key>otherground</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>f</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>354</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

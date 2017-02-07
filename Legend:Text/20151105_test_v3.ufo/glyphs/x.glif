@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x" format="1">
+  <advance width="494"/>
+  <unicode hex="0078"/>
+  <outline>
+    <contour>
+      <point x="489" y="0" type="line"/>
+      <point x="288" y="282" type="line"/>
+      <point x="147" y="517" type="line"/>
+      <point x="147" y="517"/>
+      <point x="25" y="517"/>
+      <point x="25" y="517" type="curve"/>
+      <point x="205" y="248" type="line"/>
+      <point x="364" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="293" y="245" type="line"/>
+      <point x="463" y="517" type="line"/>
+      <point x="463" y="517"/>
+      <point x="344" y="517"/>
+      <point x="344" y="517" type="curve"/>
+      <point x="226" y="311" type="line"/>
+    </contour>
+    <contour>
+      <point x="3" y="0" type="line"/>
+      <point x="129" y="0" type="line"/>
+      <point x="264" y="235" type="line"/>
+      <point x="207" y="307" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>241</integer>
+          <key>y</key>
+          <integer>350</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Grd_1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>x</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>494</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>x</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>494</integer>
+        </dict>
+        <key>otherground</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>x</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>494</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
